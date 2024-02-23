@@ -1,5 +1,5 @@
 # Product Catalog Management System API
-[![Deploy to AWS Lambda](https://github.com/andrelcunha/new-test-backend-nodejs/actions/workflows/deploy.yml/badge.svg)](https://github.com/andrelcunha/new-test-backend-nodejs/actions/workflows/deploy.yml)
+[![Deploy to AWS Lambda](https://github.com/andrelcunha/ifood_coding_test_backend_nodejs/actions/workflows/deploy.yml/badge.svg)](https://github.com/andrelcunha/ifood_coding_test_backend_nodejs/actions/workflows/deploy.yml)
 
 ## Overview
 
@@ -10,8 +10,8 @@ This is a Node.js backend API for a product catalog management system in a marke
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/andrelcunha/new-test-backend-nodejs.git`
-2. Navigate to the project directory: `cd new-test-backend-nodejs`
+1. Clone the repository: `git clone https://github.com/andrelcunha/ifood_coding_test_backend_nodejs.git`
+2. Navigate to the project directory: `cd ifood_coding_test_backend_nodejs`
 3. Install the dependencies: `npm install`
 4. Create a `.env` file in the root of your project and insert your key-value pairs in the following format of `KEY=VALUE`:
    ```env
