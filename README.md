@@ -11,7 +11,7 @@ This is a Node.js backend API for a product catalog management system in a marke
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/andrelcunha/new-test-backend-nodejs.git`
-2. Navigate to the project directory: `cd ew-test-backend-nodejs`
+2. Navigate to the project directory: `cd new-test-backend-nodejs`
 3. Install the dependencies: `npm install`
 4. Create a `.env` file in the root of your project and insert your key-value pairs in the following format of `KEY=VALUE`:
    ```env
